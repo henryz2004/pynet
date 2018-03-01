@@ -1,6 +1,6 @@
 # https://www.tutorialspoint.com/python/python_networking.htm
 
-from pynet import socket_utility
+from . import socket_utility
 import select
 import socket
 import threading

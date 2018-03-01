@@ -5,7 +5,7 @@
 
 import select
 import socket
-from pynet import socket_utility
+from . import socket_utility
 
 
 class Server:
