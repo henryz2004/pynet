@@ -17,4 +17,4 @@ If you want to learn how to use it, look at the server and client code for `PyTa
 
 Please attribute this to Henry Zhang
 
-Version 1.0.git6
+Version 1.0.git7
